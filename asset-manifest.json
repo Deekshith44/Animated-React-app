@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fd65f292.css",
+    "main.js": "/react-gh-pages/static/js/main.ec801900.js",
+    "static/js/787.0e31295a.chunk.js": "/react-gh-pages/static/js/787.0e31295a.chunk.js",
+    "static/media/Akrithi.jpg": "/react-gh-pages/static/media/Akrithi.d6b6d4934ec44979f097.jpg",
+    "static/media/Smitha.jpg": "/react-gh-pages/static/media/Smitha.b7705ff9909630e71b9e.jpg",
+    "static/media/Sony.jpg": "/react-gh-pages/static/media/Sony.a8d7a7f460bd557580dd.jpg",
+    "static/media/home.jpg": "/react-gh-pages/static/media/home.180f64f052457c376af0.jpg",
+    "static/media/Ronjel.jpg": "/react-gh-pages/static/media/Ronjel.091fd0079868b36abece.jpg",
+    "static/media/victor.jpg": "/react-gh-pages/static/media/victor.c1eb9690d59ba075adf4.jpg",
+    "static/media/Hemel.jpg": "/react-gh-pages/static/media/Hemel.939ea7c21e0c0859a55e.jpg",
+    "static/media/Angel.jpg": "/react-gh-pages/static/media/Angel.9f66225faa22f1495f74.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.fd65f292.css.map": "/react-gh-pages/static/css/main.fd65f292.css.map",
+    "main.ec801900.js.map": "/react-gh-pages/static/js/main.ec801900.js.map",
+    "787.0e31295a.chunk.js.map": "/react-gh-pages/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd65f292.css",
+    "static/js/main.ec801900.js"
+  ]
+}
